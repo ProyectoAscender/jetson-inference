@@ -1,0 +1,1 @@
+video-viewer data/b2drop/smartCity/barcelona/idelfons/videos/20230721_092248_cam01h264.mp4 rtp://239.255.12.42:5000
