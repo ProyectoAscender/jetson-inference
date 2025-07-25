@@ -1,3 +1,3 @@
-bash docker/run.sh --run "video-viewer data/b2drop/smartCity/barcelona/idelfons/videos/20230721_092248_cam01h264.mp4 rtp://239.255.12.42:5000 --input-loop=10"
+bash docker/run.sh --run "video-viewer data/b2drop/smartCity/barcelona/idelfons/videos/20230721_092248_cam01h264.mp4 rtp://239.255.12.40:5000 --input-loop=10"
 # bash docker/run.sh --run "video-viewer data/b2drop/smartCity/barcelona/encants/videos/IMG_1834.MOV rtp://239.255.12.43:5000 --input-loop=12"
 # video-viewer data/b2drop/smartCity/barcelona/idelfons/videos/20230721_092248_cam01h264.mp4 rtp://239.255.12.42:5000 --input-loop=10
